@@ -37,6 +37,12 @@ Search the hash VirusTotal <br/>
 <img src="https://imgur.com/AaM7PtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p align="center">
+No Issue. Safe to download <br/>
+<img src="https://imgur.com/IMLnLgF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 
 
