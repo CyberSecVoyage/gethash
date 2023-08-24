@@ -11,7 +11,7 @@ This is a simple demostration how I generate hash from a file downloaded from Vi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Generate hash in Linux <br/>
+Generate hash in Linux (MD5 and SHA256 Hash) <br/>
 <img src="https://imgur.com/dunMQy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -19,7 +19,7 @@ Generate hash in Linux <br/>
 
 <p align="center">
 Check SHA256 hash from download page<br/>
-Go to "https://code.visualstudio.com/download" and click "See SHA256 Hashes".
+Go to "https://code.visualstudio.com/download" and click "See SHA256 Hashes".<br/>
 <img src="https://imgur.com/MNYKvpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
