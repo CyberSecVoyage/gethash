@@ -1,12 +1,12 @@
 <h1>How to Generate Hash</h1>
 
 <h2>Description</h2>
-This is a simple demostration how I generate hash from a file downloaded on Kali Linux and checking the hash on VirsTotal to ....
+This is a simple demostration how I generate hash from a file downloaded from Visual Studio Code and check the hash on Visual studio Code to ensure the integrity of the file is not changed. If hash is provided on the site, you can search for the hash on VirusTotal to check if the file is malicious.
 <br />
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> (21H2)
+- <b>Kali Linux</b>
 
 <h2>Program walk-through:</h2>
 
