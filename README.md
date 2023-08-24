@@ -12,8 +12,18 @@ This is a simple demostration how I generate hash from a file downloaded on Kali
 
 <p align="center">
 Generate hash in Linux <br/>
-<img src="https://i.imgur.com/iKGMCNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dunMQy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
+<p align="center">
+Check SHA256 hash from download page<br/>
+Go to "https://code.visualstudio.com/download" and click "See SHA256 Hashes".
+<img src="https://imgur.com/MNYKvpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 <p align="center">
 Go to VirusTotal <br/>
@@ -26,6 +36,8 @@ Go to VirusTotal <br/>
 Search the hash VirusTotal <br/>
 <img src="https://imgur.com/AaM7PtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
 
 
 
