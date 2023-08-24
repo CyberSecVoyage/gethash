@@ -1,7 +1,7 @@
 <h1>How to Generate Hash</h1>
 
 <h2>Description</h2>
-This is a simple demostration how I generate hash from a file downloaded from Visual Studio Code and check the hash on Visual studio Code to ensure the integrity of the file is not changed. If hash is provided on the site, you can search for the hash on VirusTotal to check if the file is malicious.
+This is a simple demostration how I generate hash from a file downloaded from Visual Studio Code, checking the generated hash against hash from the download page on Visual Studio Code to ensure the hash is the same. If source of download does not share its hash to check for integrity, checking the generated hash on VirusTotal can help to determine if the file is malicious.
 <br />
 
 <h2>Environments Used </h2>
